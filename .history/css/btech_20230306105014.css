@@ -1,0 +1,10 @@
+body{
+    margin:auto;
+}
+header{
+    background-color: rgb(229, 182, 95);
+}
+header > h2{
+    text-align: center;
+    text-shadow: rgb(63, 109, 10);
+}

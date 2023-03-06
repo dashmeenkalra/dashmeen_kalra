@@ -1,0 +1,26 @@
+/* margin can also be 0% */
+body{
+    margin: auto;  
+}
+header{
+    background-color: rgb(199, 78, 78);
+    height: 90px;
+}
+header > h2{
+    font-size: 20px;
+    color:darkgrey;
+    font-weight:bolder ;
+    text-align: center;
+}
+.sec1{
+    background-color: rgb(225, 163, 173);
+    height:400px;
+}
+.sec2{
+    background-color: rgb(225, 163, 173);
+    height:400px;
+}
+footer{
+    background-color: rgb(199, 78, 78);
+    height: 120px;
+}

@@ -1,0 +1,16 @@
+body{
+    margin:auto;
+}
+header{
+    background-color: rgb(229, 182, 95);
+}
+header > h2{
+    text-align: center;
+}
+#app{
+    background-color: rgb(89, 89, 131);
+    height:120px;
+    width:400px;
+    border-radius:40px;
+    float
+}

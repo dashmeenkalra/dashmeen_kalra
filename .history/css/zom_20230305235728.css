@@ -1,0 +1,49 @@
+/* margin can also be 0px */
+body{
+    margin: auto;  
+}
+header{
+    background-color: rgb(199, 78, 78);
+    height: 90px;
+}
+.name{
+    font-size: 50px;
+    color:rgb(231, 237, 239);
+    font-weight:bolder ;
+}
+#new{
+    float:right;
+}
+.im{
+    height: 25px;
+}
+#sec1{
+    background-color: rgb(225, 163, 173);
+    height:400px;
+    background-image: url('https://i.ibb.co/R3j8z8S/assorted-foods-on-table-1391301.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.logo{
+    width:60px;
+    height:60px;
+    background-color: rgb(229, 210, 210);
+    border-radius: 50%;
+    margin-left: 45%;
+    margin-top: 1%;
+    position: absolute;
+}
+.logo > span{
+    font-weight: bold;
+    color:rgb(152, 64, 64);
+    font-size: small;
+}
+
+#sec2{
+    background-color: rgb(225, 163, 173);
+    height:400px;
+}
+footer{
+    background-color: rgb(199, 78, 78);
+    height: 120px;
+}
